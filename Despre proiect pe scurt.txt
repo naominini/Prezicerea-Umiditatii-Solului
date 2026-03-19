@@ -1,1 +1,4 @@
-Pentru cursul de Sisteme Inteligente am ales tema "prezicerii umiditatii solului" deoarece este un domeniu interesant si actual, cu aplicatii practice in agricultura moderna. Prin acest proiect se pot folosi metode inteligente si modele predictive pentru a estima nivelul de umiditate al solului, ceea ce ajuta la utilizarea eficienta a apei si la imbunatatirea productiei agricole. De asemenea, tema permite intelegerea modului in care tehnologiile inteligente pot fi aplicate pentru rezolvarea unor probleme reale.
+Pentru cursul de Sisteme Inteligente am ales tema "prezicerii umiditatii solului" deoarece este un domeniu interesant si actual, 
+cu aplicatii practice in agricultura moderna. Prin acest proiect se pot folosi metode inteligente si modele predictive pentru a 
+estima nivelul de umiditate al solului, ceea ce ajuta la utilizarea eficienta a apei si la imbunatatirea productiei agricole. 
+De asemenea, tema permite intelegerea modului in care tehnologiile inteligente pot fi aplicate pentru rezolvarea unor probleme reale.
