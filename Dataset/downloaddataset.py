@@ -11,7 +11,7 @@ c.retrieve(
             'volumetric_soil_water_layer_1',
             'soil_temperature_level_1',
         ],
-        'year': [str(y) for y in range(2022, 2023)],
+        'year': ['2022'],
         'month': [
             '01','02','03','04','05','06',
             '07','08','09','10','11','12'
@@ -21,8 +21,8 @@ c.retrieve(
             '11','12','13','14','15','16','17','18','19','20',
             '21','22','23','24','25','26','27','28','29','30','31'
         ],
-        'time': ['12:00'],
-        'area': [38.23, 45.05, 37.12, 45.80],  # North, West, South, East - zona Urmia
+        'time': ['00:00', '06:00', '12:00', '18:00'],
+        'area': [38.23, 45.05, 37.12, 45.80],
         'format': 'netcdf'
     },
-    'soil_data.nc')
+    'Dataset/soil_data.nc')
